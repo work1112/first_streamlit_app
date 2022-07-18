@@ -1,3 +1,3 @@
 import streamlit
  
-streampit.title("this")
+streamlit.title("this")
